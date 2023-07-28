@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <Link className='title-footer' to='/'>
-        DCI Converter
+        Totraku's Converter
       </Link>
       <div>
         <a href='https://github.com/'>
